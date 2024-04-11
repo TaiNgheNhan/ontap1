@@ -1,4 +1,0 @@
-day la file test2.txt
-test conflict
-conflicts
-
